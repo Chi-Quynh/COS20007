@@ -1,5 +1,0 @@
-D:\COS20007\Custom\CustomProject\CustomProject\obj\Debug\net7.0\CustomProject.csproj.AssemblyReference.cache
-D:\COS20007\Custom\CustomProject\CustomProject\obj\Debug\net7.0\CustomProject.GeneratedMSBuildEditorConfig.editorconfig
-D:\COS20007\Custom\CustomProject\CustomProject\obj\Debug\net7.0\CustomProject.AssemblyInfoInputs.cache
-D:\COS20007\Custom\CustomProject\CustomProject\obj\Debug\net7.0\CustomProject.AssemblyInfo.cs
-D:\COS20007\Custom\CustomProject\CustomProject\obj\Debug\net7.0\CustomProject.csproj.CoreCompileInputs.cache
