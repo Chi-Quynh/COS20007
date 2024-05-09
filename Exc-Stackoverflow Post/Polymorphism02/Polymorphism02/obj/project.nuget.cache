@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lMcWQGyscuDW/FB/NXOa+nMvIjNFvMcuF8zLcFVTKQPNM8BNMu8lujMLqbPxInZBnUP0pIH3Q5zkXRJJEk66bQ==",
+  "success": true,
+  "projectFilePath": "D:\\COS20007\\Exc-Stackoverflow Post\\Polymorphism02\\Polymorphism02\\Polymorphism02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lily Patch\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lily Patch\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Lily Patch\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\COS20007\Week 2\2.4\Ass24\Ass24\bin\Debug\net6.0\Ass24.exe
+D:\COS20007\Week 2\2.4\Ass24\Ass24\bin\Debug\net6.0\Ass24.deps.json
+D:\COS20007\Week 2\2.4\Ass24\Ass24\bin\Debug\net6.0\Ass24.runtimeconfig.json
+D:\COS20007\Week 2\2.4\Ass24\Ass24\bin\Debug\net6.0\Ass24.dll
+D:\COS20007\Week 2\2.4\Ass24\Ass24\bin\Debug\net6.0\Ass24.pdb
+D:\COS20007\Week 2\2.4\Ass24\Ass24\obj\Debug\net6.0\Ass24.GeneratedMSBuildEditorConfig.editorconfig
+D:\COS20007\Week 2\2.4\Ass24\Ass24\obj\Debug\net6.0\Ass24.AssemblyInfoInputs.cache
+D:\COS20007\Week 2\2.4\Ass24\Ass24\obj\Debug\net6.0\Ass24.AssemblyInfo.cs
+D:\COS20007\Week 2\2.4\Ass24\Ass24\obj\Debug\net6.0\Ass24.csproj.CoreCompileInputs.cache
+D:\COS20007\Week 2\2.4\Ass24\Ass24\obj\Debug\net6.0\Ass24.dll
+D:\COS20007\Week 2\2.4\Ass24\Ass24\obj\Debug\net6.0\refint\Ass24.dll
+D:\COS20007\Week 2\2.4\Ass24\Ass24\obj\Debug\net6.0\Ass24.pdb
+D:\COS20007\Week 2\2.4\Ass24\Ass24\obj\Debug\net6.0\Ass24.genruntimeconfig.cache
+D:\COS20007\Week 2\2.4\Ass24\Ass24\obj\Debug\net6.0\ref\Ass24.dll

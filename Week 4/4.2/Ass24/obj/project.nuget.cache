@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "s0Gd+R3j54Vmzz7PngiSRqMIBpLKPJF6Ma9hb5R8WBYAm79HCIpvWteq99AJOE/z0D24YGTJEXRdbZ3MGtgwFA==",
+  "success": true,
+  "projectFilePath": "D:\\COS20007\\Week 4\\4.2\\Ass24\\Ass24.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lily Patch\\.nuget\\packages\\microsoft.codecoverage\\17.7.2\\microsoft.codecoverage.17.7.2.nupkg.sha512",
+    "C:\\Users\\Lily Patch\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.2\\microsoft.net.test.sdk.17.7.2.nupkg.sha512",
+    "C:\\Users\\Lily Patch\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.7.2\\microsoft.testplatform.objectmodel.17.7.2.nupkg.sha512",
+    "C:\\Users\\Lily Patch\\.nuget\\packages\\microsoft.testplatform.testhost\\17.7.2\\microsoft.testplatform.testhost.17.7.2.nupkg.sha512",
+    "C:\\Users\\Lily Patch\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Lily Patch\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\Lily Patch\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lily Patch\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

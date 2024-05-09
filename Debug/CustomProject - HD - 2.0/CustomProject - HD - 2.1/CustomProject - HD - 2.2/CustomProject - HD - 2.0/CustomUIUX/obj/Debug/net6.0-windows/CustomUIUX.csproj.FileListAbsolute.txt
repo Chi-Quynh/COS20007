@@ -1,0 +1,746 @@
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\testhost.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.deps.json
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.runtimeconfig.json
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\testhost.exe
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.api.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.core.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.exe
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.exe
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.deps.json
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.runtimeconfig.json
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.pdb
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\nunit.framework.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.pdb
+D:\COS20007\Custom\CustomProject\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.AssemblyReference.cache
+D:\COS20007\Custom\CustomProject\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.Form1.resources
+D:\COS20007\Custom\CustomProject\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.GenerateResource.cache
+D:\COS20007\Custom\CustomProject\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.GeneratedMSBuildEditorConfig.editorconfig
+D:\COS20007\Custom\CustomProject\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.AssemblyInfoInputs.cache
+D:\COS20007\Custom\CustomProject\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.AssemblyInfo.cs
+D:\COS20007\Custom\CustomProject\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.CoreCompileInputs.cache
+D:\COS20007\Custom\CustomProject\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.CopyComplete
+D:\COS20007\Custom\CustomProject\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\obj\Debug\net6.0-windows\refint\CustomUIUX.dll
+D:\COS20007\Custom\CustomProject\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.pdb
+D:\COS20007\Custom\CustomProject\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.genruntimeconfig.cache
+D:\COS20007\Custom\CustomProject\CustomUIUX\obj\Debug\net6.0-windows\ref\CustomUIUX.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\refint\CustomUIUX.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.pdb
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.AssemblyReference.cache
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.Form1.resources
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.Form2.resources
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.Properties.Resources.resources
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.GenerateResource.cache
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.GeneratedMSBuildEditorConfig.editorconfig
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.AssemblyInfoInputs.cache
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.AssemblyInfo.cs
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.CoreCompileInputs.cache
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\testhost.exe
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\testhost.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.api.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.core.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.deps.json
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.runtimeconfig.json
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.exe
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.exe
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.deps.json
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.runtimeconfig.json
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.pdb
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\nunit.framework.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.pdb
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.CopyComplete
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.genruntimeconfig.cache
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\obj\Debug\net6.0-windows\ref\CustomUIUX.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\COS20007\Custom\CustomProject - HD\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\refint\CustomUIUX.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.pdb
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\testhost.exe
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\testhost.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.api.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.core.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.deps.json
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.runtimeconfig.json
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.exe
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.exe
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.deps.json
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.runtimeconfig.json
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.pdb
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.framework.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.pdb
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.AssemblyReference.cache
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.Form1.resources
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.Properties.Resources.resources
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.GenerateResource.cache
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.GeneratedMSBuildEditorConfig.editorconfig
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.AssemblyInfoInputs.cache
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.AssemblyInfo.cs
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.CoreCompileInputs.cache
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.CopyComplete
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.genruntimeconfig.cache
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\ref\CustomUIUX.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\COS20007\Custom\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\testhost.exe
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\testhost.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.api.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.core.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.deps.json
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.runtimeconfig.json
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.exe
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.exe
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.deps.json
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.runtimeconfig.json
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.pdb
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.framework.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.pdb
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.AssemblyReference.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.Form1.resources
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.Properties.Resources.resources
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.GenerateResource.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.GeneratedMSBuildEditorConfig.editorconfig
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.AssemblyInfoInputs.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.AssemblyInfo.cs
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.CoreCompileInputs.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.CopyComplete
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\refint\CustomUIUX.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.pdb
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.genruntimeconfig.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\ref\CustomUIUX.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\testhost.exe
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\testhost.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.api.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.core.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.deps.json
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.runtimeconfig.json
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.exe
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.exe
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.deps.json
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.runtimeconfig.json
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.pdb
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.framework.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.pdb
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.AssemblyReference.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.Form1.resources
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.Properties.Resources.resources
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.GenerateResource.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.GeneratedMSBuildEditorConfig.editorconfig
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.AssemblyInfoInputs.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.AssemblyInfo.cs
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.CoreCompileInputs.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.CopyComplete
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\refint\CustomUIUX.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.pdb
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.genruntimeconfig.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\ref\CustomUIUX.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\testhost.exe
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\testhost.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.api.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.engine.core.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.deps.json
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.runtimeconfig.json
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.exe
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.exe
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.deps.json
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.runtimeconfig.json
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomUIUX.pdb
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\nunit.framework.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\bin\Debug\net6.0-windows\CustomProject.pdb
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.AssemblyReference.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.Form1.resources
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.Properties.Resources.resources
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.GenerateResource.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.GeneratedMSBuildEditorConfig.editorconfig
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.AssemblyInfoInputs.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.AssemblyInfo.cs
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.CoreCompileInputs.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.csproj.CopyComplete
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\refint\CustomUIUX.dll
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.pdb
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\CustomUIUX.genruntimeconfig.cache
+D:\COS20007\Debug\CustomProject - HD - 2.0\CustomProject - HD - 2.1\CustomProject - HD - 2.2\CustomProject - HD - 2.0\CustomUIUX\obj\Debug\net6.0-windows\ref\CustomUIUX.dll

@@ -1,0 +1,14 @@
+D:\COS20007\Exc-Stackoverflow Post\Polymorphism02\Polymorphism02\bin\Debug\net6.0\Polymorphism02.exe
+D:\COS20007\Exc-Stackoverflow Post\Polymorphism02\Polymorphism02\bin\Debug\net6.0\Polymorphism02.deps.json
+D:\COS20007\Exc-Stackoverflow Post\Polymorphism02\Polymorphism02\bin\Debug\net6.0\Polymorphism02.runtimeconfig.json
+D:\COS20007\Exc-Stackoverflow Post\Polymorphism02\Polymorphism02\bin\Debug\net6.0\Polymorphism02.dll
+D:\COS20007\Exc-Stackoverflow Post\Polymorphism02\Polymorphism02\bin\Debug\net6.0\Polymorphism02.pdb
+D:\COS20007\Exc-Stackoverflow Post\Polymorphism02\Polymorphism02\obj\Debug\net6.0\Polymorphism02.GeneratedMSBuildEditorConfig.editorconfig
+D:\COS20007\Exc-Stackoverflow Post\Polymorphism02\Polymorphism02\obj\Debug\net6.0\Polymorphism02.AssemblyInfoInputs.cache
+D:\COS20007\Exc-Stackoverflow Post\Polymorphism02\Polymorphism02\obj\Debug\net6.0\Polymorphism02.AssemblyInfo.cs
+D:\COS20007\Exc-Stackoverflow Post\Polymorphism02\Polymorphism02\obj\Debug\net6.0\Polymorphism02.csproj.CoreCompileInputs.cache
+D:\COS20007\Exc-Stackoverflow Post\Polymorphism02\Polymorphism02\obj\Debug\net6.0\Polymorphism02.dll
+D:\COS20007\Exc-Stackoverflow Post\Polymorphism02\Polymorphism02\obj\Debug\net6.0\refint\Polymorphism02.dll
+D:\COS20007\Exc-Stackoverflow Post\Polymorphism02\Polymorphism02\obj\Debug\net6.0\Polymorphism02.pdb
+D:\COS20007\Exc-Stackoverflow Post\Polymorphism02\Polymorphism02\obj\Debug\net6.0\Polymorphism02.genruntimeconfig.cache
+D:\COS20007\Exc-Stackoverflow Post\Polymorphism02\Polymorphism02\obj\Debug\net6.0\ref\Polymorphism02.dll

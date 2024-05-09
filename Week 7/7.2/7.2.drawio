@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" modified="2023-10-19T11:12:39.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="_HoOCBOxag9nvz53Ekaf" version="22.0.5" type="device">
+  <diagram name="Page-1" id="nfglLp3CFmyNXDylWXbX">
+    <mxGraphModel dx="1063" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wlST2WekwycRIo_dFifn-1" value="Location" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="480" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wlST2WekwycRIo_dFifn-2" value="- _name : string&lt;br&gt;- _desc : string&lt;br&gt;- _inventory : Inventory" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="wlST2WekwycRIo_dFifn-1">
+          <mxGeometry y="26" width="210" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="wlST2WekwycRIo_dFifn-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="wlST2WekwycRIo_dFifn-1">
+          <mxGeometry y="100" width="210" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="wlST2WekwycRIo_dFifn-4" value="+ Location (string[] ids, string name, string desc)&lt;br&gt;+ Locate (string id ) Inventory" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="wlST2WekwycRIo_dFifn-1">
+          <mxGeometry y="108" width="210" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="wlST2WekwycRIo_dFifn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wlST2WekwycRIo_dFifn-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlST2WekwycRIo_dFifn-9" value="Player" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="570" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wlST2WekwycRIo_dFifn-10" value="IHaveInventory" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="780" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wlST2WekwycRIo_dFifn-11" value="" style="endArrow=blockThin;html=1;rounded=0;endFill=0;exitX=0.512;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wlST2WekwycRIo_dFifn-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="700" as="sourcePoint" />
+            <mxPoint x="530" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlST2WekwycRIo_dFifn-12" value="&amp;lt;&amp;lt;Implements&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="710" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wlST2WekwycRIo_dFifn-14" value="GameObject" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="340" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wlST2WekwycRIo_dFifn-15" value="" style="endArrow=blockThin;html=1;rounded=0;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.45;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wlST2WekwycRIo_dFifn-1" target="wlST2WekwycRIo_dFifn-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="538" y="693" as="sourcePoint" />
+            <mxPoint x="535" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

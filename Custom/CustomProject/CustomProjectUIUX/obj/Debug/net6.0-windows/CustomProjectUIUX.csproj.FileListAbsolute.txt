@@ -1,0 +1,7 @@
+D:\COS20007\Custom\CustomProject\CustomProjectUIUX\obj\Debug\net6.0-windows\CustomProjectUIUX.Form1.resources
+D:\COS20007\Custom\CustomProject\CustomProjectUIUX\obj\Debug\net6.0-windows\CustomProjectUIUX.Properties.Resources.resources
+D:\COS20007\Custom\CustomProject\CustomProjectUIUX\obj\Debug\net6.0-windows\CustomProjectUIUX.csproj.GenerateResource.cache
+D:\COS20007\Custom\CustomProject\CustomProjectUIUX\obj\Debug\net6.0-windows\CustomProjectUIUX.GeneratedMSBuildEditorConfig.editorconfig
+D:\COS20007\Custom\CustomProject\CustomProjectUIUX\obj\Debug\net6.0-windows\CustomProjectUIUX.AssemblyInfoInputs.cache
+D:\COS20007\Custom\CustomProject\CustomProjectUIUX\obj\Debug\net6.0-windows\CustomProjectUIUX.AssemblyInfo.cs
+D:\COS20007\Custom\CustomProject\CustomProjectUIUX\obj\Debug\net6.0-windows\CustomProjectUIUX.csproj.CoreCompileInputs.cache

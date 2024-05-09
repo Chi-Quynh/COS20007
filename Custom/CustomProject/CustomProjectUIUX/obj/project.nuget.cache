@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xuPWLKz0oixxF0N3iuc/45XE6+qLwB8WikGujt8tVcslXx2McfZ7zdCsPA+gY7RHHwsee4jA9lrZLFSiOURW3Q==",
+  "success": true,
+  "projectFilePath": "D:\\COS20007\\Custom\\CustomProject\\CustomProjectUIUX\\CustomProjectUIUX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lily Patch\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\Lily Patch\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
